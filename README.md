@@ -1,4 +1,4 @@
-# Hi there, I'm FlyingError 👋🏼
+# Hi there, I'm Error 👋🏼
 
 I am a 16-year-old developer from Germany who is passionate about programming, creating web apps, and building small software tools. I have experience in several programming languages, including JS, C, C++, Python, and I am currently in the process of self teaching me more. 
 
