@@ -5,13 +5,6 @@ I am a 16-year-old developer from Germany who is passionate about programming, c
 ## 🔭 I'm currently working on...
 
 - Developing a scalable and secure web application for a client.
-- Creating a command-line tool in Python to automate data processing for a research project.
 - Integrating AI in a company's Microsoft Teams to improove efficiency and help workers.
-
-## 💬 Ask me about...
-
-- Any technical challenges you may be facing with your project.
-- Best practices in web development, software development, and coding in general.
-- How to stay motivated and productive as a young developer.
 
 Thanks for stopping by my profile!
